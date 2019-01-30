@@ -81,7 +81,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Umihiko Hoshijima" # Site name or title, also used in jekyll-seo-tag
 #logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: Postdoctoral Researcher - ecophysiology and envirionmental variability in an era of global change"
+description: Umihiko Hoshijima - Ecophysiology and environmental variability in an era of global change"
  # Site description and default description, also used in jekyll-seo-tag
 url: "umihoshijima.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -98,7 +98,9 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  About: /about/
+  Ecophysiology: /ecophys/
+  Environmental Variability: /envvar/
+  Contact/CV: /contact_cv/
   #Blog: /blog/
   #Categories: /categories/
   #Search: /search/
