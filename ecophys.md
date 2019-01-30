@@ -18,11 +18,17 @@ I have explored this relationship in a variety of invertebrate systems, focusing
 
  *Strongylocentrotus purpuratus*
 
-In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). With the development of new technology allowing for the autonomous, stable logging of pH, these drivers, previously considered minutia in relation to the larger-scale drivers, are now being considered for its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the CCLME.
+In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
 
-### Juvenile thecosome pteropods in Antarctica
+### Juvenile pteropods in Antarctica
 
-My work on Antarctic pteropods (*Limacina helicina antarctica*) has been published in Conservation Physiology [here](https://academic.oup.com/conphys/article/5/1/cox064/4670933).
+Published Work:
+
+* [Additive effects of pCO2 and temperature on respiration rates of the Antarctic pteropod *Limacina helicina antarctica*](https://academic.oup.com/conphys/article/5/1/cox064/4670933)
+
+*  [Seasonal transcriptomes of the Antarctic pteropod, *Limacina helicina antarctica*](https://www.sciencedirect.com/science/article/pii/S0141113618304331) (coauthor)
+
+* [Shell dissolution observed in *Limacina helicina antarctica* from the Ross Sea, Antarctica: paired shell characteristics and in situ seawater chemistry](https://www.biogeosciences-discuss.net/bg-2016-467/) (coauthor)
 
 With this work, we sought to investigate how Antarctic pteropods – a shelled zooplankton – would fare under current and future extremes of pH when combined with a near-future temperature stress. We decided to measure metabolic rate via respirometry, measuring how much oxygen the organisms respired at various conditions.
 
