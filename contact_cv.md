@@ -6,4 +6,4 @@ permalink: /contact_cv/
 
 {% include button.html text="Email Me" link="mailto:uhoshiji@ucsc.edu" color="#1DA1F2" %}
 
-Download CV [here]({../assets/Umihiko_Hoshijima_cv.pdf)
+Download CV [here](../assets/Umihiko_Hoshijima_cv.pdf)
