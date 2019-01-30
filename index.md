@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Umihiko Hoshijimma
-feature_text: 
+feature_text: |
   ## Umihiko Hoshijima
   Ecophysiology in a changing world
   Postdoctoral Researcher, UC Santa Cruz
