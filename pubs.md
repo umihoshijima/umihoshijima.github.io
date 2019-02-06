@@ -28,5 +28,5 @@ permalink: /pubs/
 
 * Wong, J.M., Leach, T., Kozal, L., Hoshijima, U., Hofmann, G.E. Transgenerational effects in an ecological context: Conditioning of adult sea urchins to upwelling conditions alters the progeny’s response to differential pCO2 levels (In review).
 * Hoshijima, U. and Hofmann, G.E. A time series of year-round pH from the Ross Sea, Antarctica: inter and intra-annual trends. (In preparation).
-* Hoshijima, U., Dilly, G.F., Rivest, E.B., L. Kapsenberg, Nguyen, A.T., Johnson, K.M., and Hofmann, G.E. Exploring local adaptation to ocean acidification in Mytilus californianus during simulated upwelling events in Acidification Respirometry Chambers (ARCs). (in preparation).
+* Hoshijima, U., Dilly, G.F., Rivest, E.B., L. Kapsenberg, Nguyen, A.T., Johnson, K.M., and Hofmann, G.E. Exploring local adaptation to ocean acidification in **Mytilus californianus** during simulated upwelling events in Acidification Respirometry Chambers (ARCs). (in preparation).
 * Hofmann, G.E., K.M. Johnson, Hoshijima, U, Wong, J.M., and Sugano, C. On thin ice? Pteropods as sentinel organisms and the utility of transcriptomics.  (in preparation)

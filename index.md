@@ -2,12 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Ecophysiology in a changing world
+title: Ecophysiology in an unpredictable world
 feature_text: |
   ## Umihiko Hoshijima
   Postdoctoral Researcher, UC Santa Cruz
 ---
-
 
 
 ![my photo]({{ site.url }}/assets/img/ant_diving_green.jpg)

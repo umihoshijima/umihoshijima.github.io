@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Ecophysiology
-permalink: /ecophys/
+title: Research
+permalink: /research/
 ---
 
-### *I am very interested in how an organism's physiology responds to a changing environment.*
+### *I am very interested in how an organism's physiology responds to its dynamic environment.*
 
-
-I have explored this relationship in a variety of invertebrate systems, focusing largely on early developmental stages. I am currently scaling this work up to communities and ecosystems.
-
+I explore this complex relationship by research by simultaneously researching the organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Through this work, I have been fortunate enough to conduct scientific diving operations around the globe.
 
 ### Kelp Forest grazers in Southeast Alaska
 
