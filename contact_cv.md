@@ -3,7 +3,7 @@ layout: page
 title:
 feature_text: |
   Contact / CV
-feature_image: "umihoshijima.github.io/assets/img/ice_fish.jpg"
+feature_image: "/assets/img/ice_fish.jpg"
 permalink: /contact_cv/
 ---
 
