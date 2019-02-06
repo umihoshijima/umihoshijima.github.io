@@ -8,6 +8,11 @@ feature_text: |
   Postdoctoral Researcher, UC Santa Cruz
 ---
 
+
+
+![my photo]({{ site.url }}/assets/img/ant_diving_green.jpg)
+
+
 #### This is under contruction. Go [here](www.hoshijima.org) for the full current site.
 
 
@@ -16,4 +21,4 @@ feature_text: |
 
 I am broadly interested in the extent to which organisms are adapted to their environment, and how that could confer resilience to global change. My work has generally focused in temperate reef systems, as well as polar environments.
 
-I am currently a postdoctoral researcher at the University of California, Santa Cruz with the [Kroeker Lab](http://kristy-kroeker.squarespace.com/). Previously, I was a PhD student working with the [Hofmann Lab](http://www.hofmannlab.com/) in the department of Ecology, Evolution and Marine Biology at the University of California, Santa Barbara. 
+I am currently a postdoctoral researcher at the University of California, Santa Cruz with the [Kroeker Lab](http://kristy-kroeker.squarespace.com/). Previously, I was a PhD student working with the [Hofmann Lab](http://www.hofmannlab.com/) in the department of Ecology, Evolution and Marine Biology at the University of California, Santa Barbara.

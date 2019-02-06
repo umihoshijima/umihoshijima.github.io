@@ -13,4 +13,4 @@ Download CV [here](http://{{site.url}}/assets/Umihiko_Hoshijima_cv.pdf)
 
 ### About This Page
 
-This page was made using the [Alembic theme for Jekyll](https://alembic.darn.es/), compiled using [Jekyll](https://jekyllrb.com/) and hosted on [this github repo](https://github.com/umihoshijima/umihoshijima.github.io). 
+This page was made using the [Alembic theme for Jekyll](https://alembic.darn.es/), compiled using [Jekyll](https://jekyllrb.com/) and hosted on [this github repo](https://github.com/umihoshijima/umihoshijima.github.io).
