@@ -18,11 +18,9 @@ permalink: /pubs/
 ### 2016
 
 * Kevin M. Johnson, **Umihiko Hoshijima**, Cailan S. Sugano, Alice T. Nguyen, and Gretchen E. Hofmann. Shell dissolution observed in *Limacina helicina antarctica* from the Ross Sea, Antarctica: paired shell characteristics and in situ seawater chemistry. Biogeosciences Discussions. doi:[10.5194/bg-2016-467](https://www.biogeosciences-discuss.net/bg-2016-467/)
-
-
+<br>
 * Brent B. Hughes, Kamille K. Hammerstrom, Nora E. Grant, **Umihiko Hoshijima**, Ron Eby, Kerstin Wasson. Trophic cascades on the edge: fostering seagrass resilience via a novel pathway. Oecologia. doi:[10.1007/s00442-016-3652-z](https://link.springer.com/article/10.1007/s00442-016-3652-z)
-
-
+<br>
 * Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. Ecological Informatics. doi:[10.1016/j.ecoinf.2016.08.005](https://www.sciencedirect.com/science/article/pii/S1574954116301212)
 
 ### In Prep/Review:
