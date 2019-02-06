@@ -1,9 +1,9 @@
 ---
 layout: page
 title:
+feature_image: "/assets/img/ice_fish.jpg"
 feature_text: |
   Contact / CV
-feature_image: "/assets/img/ice_fish.jpg"
 permalink: /contact_cv/
 ---
 
