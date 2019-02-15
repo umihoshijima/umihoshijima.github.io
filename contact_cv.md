@@ -18,4 +18,6 @@ permalink: /contact_cv/
 
 ### About This Page
 
-This page was made using the [Alembic theme for Jekyll](https://alembic.darn.es/), compiled using [Jekyll](https://jekyllrb.com/) and hosted on [this github repo](https://github.com/umihoshijima/umihoshijima.github.io).
+* This page was made using the [Alembic theme for Jekyll](https://alembic.darn.es/).
+* Compiled using [Jekyll](https://jekyllrb.com/).
+* Hosted on [this github repo](https://github.com/umihoshijima/umihoshijima.github.io).
