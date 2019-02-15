@@ -12,7 +12,7 @@ feature_text: |
 ![my photo]({{ site.url }}/assets/img/ant_diving_green.jpg)
 
 
-#### This is under contruction. Go [here](www.hoshijima.org) for the full current site.
+#### This is under contruction. Go [here](http://www.hoshijima.org) for the full current site.
 
 
 <a href="https://twitter.com/umihoshijima?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @umihoshijima</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
