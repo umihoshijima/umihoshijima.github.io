@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title:
 feature_text: |
-  ## Research
+  # Research
 feature_image: "/assets/img/ice_fish.jpg"
 permalink: /research/
 ---

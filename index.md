@@ -6,6 +6,8 @@ title: Ecophysiology in an unpredictable world
 feature_text: |
   ## Umihiko Hoshijima
   Postdoctoral Researcher, UC Santa Cruz
+feature_image: "/assets/img/snowmachine.jpg"
+
 ---
 
 
