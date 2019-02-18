@@ -99,8 +99,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: /
   Research: /research/
-  Publications: /pubs/
-  Contact/CV: /contact_cv/
+  Publications/CV: /pubs_cv/
   #Blog: /blog/
   #Categories: /categories/
   #Search: /search/
