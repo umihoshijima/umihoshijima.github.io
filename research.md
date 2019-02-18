@@ -7,7 +7,9 @@ feature_image: "/assets/img/ice_fish.jpg"
 permalink: /research/
 ---
 
-### I research variable environments, and what that means for organismal physiology. 
+
+# 
+#### I research variable environments, and what that means for organismal physiology.
 
 I explore this complex relationship by research by simultaneously researching the organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Through this work, I have been fortunate enough to conduct scientific diving operations around the globe.
 
@@ -21,7 +23,16 @@ I explore this complex relationship by research by simultaneously researching th
 
 In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
 
+Published work:
+
+
+
 ### Juvenile pteropods in Antarctica
+
+
+With this work, we sought to investigate how Antarctic pteropods – a shelled zooplankton – would fare under current and future extremes of pH when combined with a near-future temperature stress. We decided to measure metabolic rate via respirometry, measuring how much oxygen the organisms respired at various conditions.
+
+We ultimately found that pteropods responded to low pH stress by increasing their resting metabolism. This interacted additively with temperature stress, indicating that pteropods would need to devote more energy into resting metabolism, pH regulation and shell repair under near-future conditions.
 
 Published Work:
 
@@ -30,7 +41,3 @@ Published Work:
 *  Seasonal transcriptomes of the Antarctic pteropod, *Limacina helicina antarctica*. [Marine Environmental Research](https://www.sciencedirect.com/science/article/pii/S0141113618304331) (coauthor)
 
 * Shell dissolution observed in *Limacina helicina antarctica* from the Ross Sea, Antarctica: paired shell characteristics and in situ seawater chemistry. [Biogeosciences Discussions](https://www.biogeosciences-discuss.net/bg-2016-467/) (coauthor)
-
-With this work, we sought to investigate how Antarctic pteropods – a shelled zooplankton – would fare under current and future extremes of pH when combined with a near-future temperature stress. We decided to measure metabolic rate via respirometry, measuring how much oxygen the organisms respired at various conditions.
-
-We ultimately found that pteropods responded to low pH stress by increasing their resting metabolism. This interacted additively with temperature stress, indicating that pteropods would need to devote more energy into resting metabolism, pH regulation and shell repair under near-future conditions.
