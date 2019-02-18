@@ -2,7 +2,7 @@
 layout: page
 title:
 feature_text: |
-  ## Publications / CV
+  # Publications / CV
 feature_image: "/assets/img/urchin_rock.jpg"
 permalink: /pubs_cv/
 ---
