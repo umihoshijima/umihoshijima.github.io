@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I research variable environments, and what that means for organismal physiology.
+title: ### I research variable environments, and what that means for organismal physiology.
 feature_text: |
   # Research
 feature_image: "/assets/img/ice_fish.jpg"
