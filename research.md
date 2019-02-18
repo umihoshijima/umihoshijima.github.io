@@ -7,7 +7,7 @@ feature_image: "/assets/img/ice_fish.jpg"
 permalink: /research/
 ---
 
-### *I am very interested in how an organism's physiology responds to its dynamic environment.*
+### I am very interested in how an organism's physiology responds to its dynamic environment.*
 
 I explore this complex relationship by research by simultaneously researching the organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Through this work, I have been fortunate enough to conduct scientific diving operations around the globe.
 
