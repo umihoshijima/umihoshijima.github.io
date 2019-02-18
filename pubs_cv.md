@@ -14,9 +14,9 @@ permalink: /pubs_cv/
 
 ## Publications
 * <a href="#2019">2019</a>
-* <a href="#2018">2019</a>
-* <a href="#2017">2019</a>
-* <a href="#2016">2019</a>
+* <a href="#2018">2018</a>
+* <a href="#2017">2017</a>
+* <a href="#2016">2016</a>
 * <a href="#prep_review">In Prep / review</a>
 
 #### 2019
