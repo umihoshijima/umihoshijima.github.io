@@ -22,7 +22,7 @@ I explore the complex relationship between an organism and its environment throu
 
 ### Kelp Forest grazers in Southeast Alaska
 <a id="alaska"></a>
-{% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate researcher Sabrina Garcia running respirometry on Pinto Abalone" position="right" width="300"  %}
+{% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
 
  My postdoctoral work has focused on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska! I take an energetics approach to understanding the limits of compensation, resilience, and plasticity to future change.
 
