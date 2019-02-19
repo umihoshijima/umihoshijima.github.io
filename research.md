@@ -19,15 +19,14 @@ I explore the complex relationship between an organism and its environment throu
 * <a href="#purps">Purple Sea Urchins in Southern California</a>
 * <a href="#limacina">Juvenile pteropods in Antarctica</a>
 
-
-### Kelp Forest grazers in Southeast Alaska
 <a id="alaska"></a>
+### Kelp Forest grazers in Southeast Alaska
 {% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
 
  My postdoctoral work has focused on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska! I take an energetics approach to understanding the limits of compensation, resilience, and plasticity to future change.
 
-### Purple Sea Urchins in Southern California
 <a id="purps"></a>
+### Purple Sea Urchins in Southern California
 * Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus* (in press)
 
 In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
@@ -38,9 +37,8 @@ Published work:
 * Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. [Ecological Informatics](10.1016/j.ecoinf.2016.08.005](https://www.sciencedirect.com/science/article/pii/S1574954116301212).
 
 
-
-### Juvenile pteropods in Antarctica
 <a id="limacina"></a>
+### Juvenile pteropods in Antarctica
 <br> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lB-tbmWnoQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br> <br>

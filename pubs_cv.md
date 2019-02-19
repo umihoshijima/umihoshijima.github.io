@@ -19,6 +19,8 @@ permalink: /pubs_cv/
 * <a href="#2016">2016</a>
 * <a href="#prep_review">In Prep / review</a>
 
+{% include figure.html image="/assets/img/heroshot.jpg" caption="water sampling in Antarctica" width="500" %}
+
 #### 2019
 <a id="2019"></a>
 * **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. Frontiers in Marine Science doi: [10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full)
