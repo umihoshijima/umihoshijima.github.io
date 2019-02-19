@@ -23,13 +23,22 @@ I explore the complex relationship between an organism and its environment throu
 ### Kelp Forest grazers in Southeast Alaska
 {% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
 
- My postdoctoral work has focused on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska! I take an energetics approach to understanding the limits of compensation, resilience, and plasticity to future change.
+Subpolar regions experience huge seasonal changes in temperature and light availability. This seasonality, especially with regard to ocean acidification, is largely understudied and may play a critical role in the fate of these coastal subpolar ecosystems under global change.
+
+My postdoctoral work focuses on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska. This work takes place at the northernmost extent of *Macrocystis pyrifera* kelp beds, and is thus it is fascinating to see familiar species existing as a foundation species in a completely different system.
+
+Most of my work here revolves around the seasonal energy demands of kelp forest grazers across a range of taxonomic and functional groups. We are interested in how pH and temperature interact to affect the energetic tradeoffs an organism enacts to cope with its environment. This is being investigated as a combination of field and laboratory experiments.
+
+Check back more here for updates in the near future!
 
 <a id="purps"></a>
 ### Purple Sea Urchins in Southern California
-* Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus* (in press)
 
 In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
+
+I ultimately found that *"the neighborhood your mommy lives in is important"* - that is, maternal exposure to kelp forest conditions confers larval resilience to ocean acidification. This may mean that protecting urchin environments will be critical for the fate of these key organisms under future change.
+
+I also found that these sites, only 100m apart on the benthos, had significantly different pH and oxygen regimes that were tied to the presence and absence of kelp. This makes the pH and oxygen conditions more "predictable" inside of the kelp forest. 
 
 Published work:
 * **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. [Frontiers in Marine Science] (10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full).
