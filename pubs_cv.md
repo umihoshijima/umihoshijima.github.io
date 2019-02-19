@@ -19,26 +19,26 @@ permalink: /pubs_cv/
 * <a href="#2016">2016</a>
 * <a href="#prep_review">In Prep / Review</a>
 
-{% include figure.html image="/assets/img/heroshot.jpg" caption="water sampling in Antarctica" width="500" %}
+{% include figure.html image="/assets/img/helping_code.jpg" caption="Running a scientific programming workshop at UC Santa Barbara" width="500" %}
 
 <a id="2019"></a>
 #### 2019
-
+<br> <br>
 * **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. Frontiers in Marine Science doi: [10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full)
 
 <a id="2018"></a>
 #### 2018
-
+<br> <br>
 * Kevin M. Johnson, Juliet M. Wong, **Umihiko Hoshijima**, Cailan S. Sugano, and Gretchen E. Hofmann. Seasonal transcriptomes of the Antarctic pteropod, *Limacina helicina antarctica*. Marine Environmental Research. doi:[10.1016/j.marenvres.2018.10.006](https://www.sciencedirect.com/science/article/pii/S0141113618304331)
 
 <a id="2017"></a>
 #### 2017
-
+<br> <br>
 * **Umihiko Hoshijima**, Juliet M. Wong, and Gretchen E. Hofmann. Additive effects of pCO2 and temperature on respiration rates of the Antarctic pteropod *Limacina helicina antarctica*. Conservation physiology. doi:[10.1093/conphys/cox064](https://academic.oup.com/conphys/article/5/1/cox064/4670933)
 
 <a id="2016"></a>
 #### 2016
-
+<br> <br>
 * Kevin M. Johnson, **Umihiko Hoshijima**, Cailan S. Sugano, Alice T. Nguyen, and Gretchen E. Hofmann. Shell dissolution observed in *Limacina helicina antarctica* from the Ross Sea, Antarctica: paired shell characteristics and in situ seawater chemistry. Biogeosciences Discussions. doi:[10.5194/bg-2016-467](https://www.biogeosciences-discuss.net/bg-2016-467/)
 <br> <br>
 * Brent B. Hughes, Kamille K. Hammerstrom, Nora E. Grant, **Umihiko Hoshijima**, Ron Eby, Kerstin Wasson. Trophic cascades on the edge: fostering seagrass resilience via a novel pathway. Oecologia. doi:[10.1007/s00442-016-3652-z](https://link.springer.com/article/10.1007/s00442-016-3652-z)
@@ -48,7 +48,7 @@ permalink: /pubs_cv/
 <a id="prep_review"></a>
 #### In Prep/Review:
 
-
+<br> <br>
 * Wong, J.M., Leach, T., Kozal, L., Hoshijima, U., Hofmann, G.E. Transgenerational effects in an ecological context: Conditioning of adult sea urchins to upwelling conditions alters the progeny’s response to differential pCO2 levels (In review).
 <br> <br>
 
