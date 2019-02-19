@@ -41,6 +41,10 @@ Published work:
 
 ### Juvenile pteropods in Antarctica
 <a id="limacina"></a>
+<br> <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lB-tbmWnoQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br> <br>
+
 
 With this work, we sought to investigate how Antarctic pteropods – a shelled zooplankton – would fare under current and future extremes of pH when combined with a near-future temperature stress. We decided to measure metabolic rate via respirometry, measuring how much oxygen the organisms respired at various conditions.
 
