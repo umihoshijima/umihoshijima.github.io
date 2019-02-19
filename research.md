@@ -38,12 +38,12 @@ In the California Current, the large-scale seasonal drivers of pH and temperatur
 
 I ultimately found that *"the neighborhood your mommy lives in is important"* - that is, maternal exposure to kelp forest conditions confers larval resilience to ocean acidification. This may mean that protecting urchin environments will be critical for the fate of these key organisms under future change.
 
-I also found that these sites, only 100m apart on the benthos, had significantly different pH and oxygen regimes that were tied to the presence and absence of kelp. This makes the pH and oxygen conditions more "predictable" inside of the kelp forest. 
+I also found that these sites, only 100m apart on the benthos, had significantly different pH and oxygen regimes that were tied to the presence and absence of kelp. This makes the pH and oxygen conditions more "predictable" inside of the kelp forest.
 
 Published work:
-* **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. [Frontiers in Marine Science] (10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full).
+* **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. [Frontiers in Marine Science] (https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full).
 
-* Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. [Ecological Informatics](10.1016/j.ecoinf.2016.08.005](https://www.sciencedirect.com/science/article/pii/S1574954116301212).
+* Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. [Ecological Informatics](https://www.sciencedirect.com/science/article/pii/S1574954116301212).
 
 
 <a id="limacina"></a>
