@@ -11,13 +11,14 @@ permalink: /research/
 
 I explore the complex relationship between an organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Here is a brief synopses of some of my major projects to date:
 
-<br> <br>
-{% include figure.html image="/assets/img/sf_wrench.jpg" caption="Collecting pH sensors under ice in Antarctica" width="500" %}
-<br> <br>
 
 * <a href="#alaska">Kelp Forest grazers in Southeast Alaska</a>
 * <a href="#purps">Purple Sea Urchins in Southern California</a>
 * <a href="#limacina">Juvenile pteropods in Antarctica</a>
+<br> <br>
+{% include figure.html image="/assets/img/sf_wrench.jpg" caption="Collecting pH sensors under ice in Antarctica" width="500" %}
+<br> <br>
+
 
 <a id="alaska"></a>
 ### Kelp Forest grazers in Southeast Alaska
