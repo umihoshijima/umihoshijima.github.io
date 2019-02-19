@@ -22,6 +22,11 @@ I explore the complex relationship between an organism and its environment throu
 
 <a id="alaska"></a>
 ### Kelp Forest grazers in Southeast Alaska
+
+{% include figure.html image="/assets/img/KK_LB_UH.jpg" caption="Fieldwork in Alaskan winter with Prof. Kristy Kroeker and grad student Lauren Bell." width="800" %}
+
+
+<br> <br>
 {% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
 
 Subpolar regions experience huge seasonal changes in temperature and light availability. This seasonality, especially with regard to ocean acidification, is largely understudied and may play a critical role in the fate of these coastal subpolar ecosystems under global change.
@@ -42,7 +47,7 @@ I ultimately found that *"the neighborhood your mommy lives in is important"* - 
 I also found that these sites, only 100m apart on the benthos, had significantly different pH and oxygen regimes that were tied to the presence and absence of kelp. This makes the pH and oxygen conditions more "predictable" inside of the kelp forest.
 
 Published work:
-* **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. [Frontiers in Marine Science] (https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full).
+* **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. [Frontiers in Marine Science](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full).
 
 * Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. [Ecological Informatics](https://www.sciencedirect.com/science/article/pii/S1574954116301212).
 
