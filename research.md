@@ -25,12 +25,9 @@ I explore the complex relationship between an organism and its environment throu
 
 {% include figure.html image="/assets/img/KK_LB_UH.jpg" caption="Fieldwork in Alaskan winter with Prof. Kristy Kroeker and grad student Lauren Bell." width="800" %}
 
-
+Subpolar regions experience huge seasonal changes in temperature and light availability. This seasonality, especially with regard to ocean acidification, is largely understudied and may play a critical role in the fate of these coastal subpolar ecosystems under global change.
 <br> <br>
 {% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
-
-Subpolar regions experience huge seasonal changes in temperature and light availability. This seasonality, especially with regard to ocean acidification, is largely understudied and may play a critical role in the fate of these coastal subpolar ecosystems under global change.
-
 My postdoctoral work focuses on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska. This work takes place at the northernmost extent of *Macrocystis pyrifera* kelp beds, and is thus it is fascinating to see familiar species existing as a foundation species in a completely different system.
 
 Most of my work here revolves around the seasonal energy demands of kelp forest grazers across a range of taxonomic and functional groups. We are interested in how pH and temperature interact to affect the energetic tradeoffs an organism enacts to cope with its environment. This is being investigated as a combination of field and laboratory experiments.
