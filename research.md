@@ -11,7 +11,9 @@ permalink: /research/
 
 I explore this complex relationship by research by simultaneously researching the organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Through this work, I have been fortunate enough to conduct scientific diving operations around the globe.
 
-{% include figure.html image="/assets/img/sf_handoff.jpg" caption="Right aligned image" position="right" width="500" %}
+<br> <br>
+{% include figure.html image="/assets/img/sf_wrench.jpg" caption="Collecting pH sensors under ice in Antarctica" width="500" %}
+<br> <br>
 
 ### Kelp Forest grazers in Southeast Alaska
 
