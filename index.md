@@ -14,7 +14,7 @@ feature_image: "/assets/img/snowmachine.jpg"
 ![my photo]({{ site.url }}/assets/img/ant_diving_green.jpg)
 
 
-#### This is under contruction. Go [here](http://www.hoshijima.org) for the full current site.
+#### This is under contruction. Please be patient and feel free to contact me with any questions.
 
 
 
