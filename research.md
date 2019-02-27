@@ -37,6 +37,8 @@ Check back more here for updates in the near future!
 <a id="purps"></a>
 ### Purple Sea Urchins in Southern California
 
+{% include figure.html image="/assets/img/cabezon_pipe.jpg" caption="Scientific collections in Santa Barbara, CA" width="500" %}
+
 In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
 
 I ultimately found that *"the neighborhood your mommy lives in is important"* - that is, maternal exposure to kelp forest conditions confers larval resilience to ocean acidification. This may mean that protecting urchin environments will be critical for the fate of these key organisms under future change.
