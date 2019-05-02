@@ -24,6 +24,9 @@ permalink: /pubs_cv/
 <a id="2019"></a>
 #### 2019
 <br>
+
+* Juliet M. Wong, Terence Leach, Logan Kozal, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Transgenerational effects in an ecological context: Conditioning of adult sea urchins to upwelling conditions alters the progeny’s response to differential *p* CO2 levels. doi: [10.1016/j.jembe.2019.04.006](https://www.sciencedirect.com/science/article/pii/S0022098118304404)
+<br> <br>
 * **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. Frontiers in Marine Science doi: [10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full)
 
 {% include figure.html image="/assets/img/con_one.jpg" caption="Fieldwork in Antarctica" width="500" %}
@@ -60,8 +63,7 @@ permalink: /pubs_cv/
 #### In Prep/Review:
 
 <br>
-* Wong, J.M., Leach, T., Kozal, L., Hoshijima, U., Hofmann, G.E. Transgenerational effects in an ecological context: Conditioning of adult sea urchins to upwelling conditions alters the progeny’s response to differential pCO2 levels (In review).
-<br> <br>
+
 
 * Hoshijima, U. and Hofmann, G.E. A time series of year-round pH from the Ross Sea, Antarctica: inter and intra-annual trends. (In preparation).
 <br> <br>
