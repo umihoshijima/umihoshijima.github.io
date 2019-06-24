@@ -25,9 +25,9 @@ permalink: /r_intro_201907/
 
 # Why R?
 
-```
-I already know how to use excel, and have done some statistics in other programs (e.g. JMP). Why do I need to learn ANOTHER thing?
-```
+
+>I already know how to use excel, and have done some statistics in other programs (e.g. JMP). Why do I need to learn ANOTHER thing?
+
 
 You've likely heard of the imprtance of  `reproducible science`. In a well-written paper, all of the technical steps are laid out so somebody else can replicate the experiment exactly with the information given. These `reproducible methods` are super important for scientific progress.
 
