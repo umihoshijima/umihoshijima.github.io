@@ -7,8 +7,8 @@ permalink: /r_intro_201907/
 ---
 
 
-## Umihiko (Umi) Hoshijima
-### uhoshiji@ucsc.edu
+ Umihiko (Umi) Hoshijima
+ uhoshiji@ucsc.edu
 
 <br>
 
