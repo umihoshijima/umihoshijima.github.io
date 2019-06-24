@@ -6,12 +6,14 @@ feature_text: |
 permalink: /r_intro_201907/
 ---
 
-# Introduction to R
 
 ## Umihiko (Umi) Hoshijima
 ### uhoshiji@ucsc.edu
 
-> # Objectives
+<br>
+
+
+> # Objectives:
 > * Become familiar with the R environment
 > * Learn how to do math and create variables
 > * Import a spreadsheet of data
