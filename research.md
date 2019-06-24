@@ -8,7 +8,7 @@ feature_image: "/assets/img/ice_fish.jpg"
 permalink: /research/
 ---
 
-
+ 
 I explore the complex relationship between an organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Here is a brief synopses of some of my major projects to date:
 
 
