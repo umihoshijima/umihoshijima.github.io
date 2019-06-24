@@ -12,8 +12,8 @@ permalink: /r_intro_201907/
 
 
 
-```
- # Objectives:
+
+> # Objectives:
  * Become familiar with the R environment
  * Learn how to do math and assign values to variables/objects
  * Use comments to inform the script
@@ -21,7 +21,7 @@ permalink: /r_intro_201907/
  * Exploring a data frame
  * Explore plotting the data
  * Pointing you towards future resources
-```
+
 
 You can get output from R simply by typing math in the console:
 
