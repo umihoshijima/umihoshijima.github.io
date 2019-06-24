@@ -30,7 +30,7 @@ You can get output from R simply by typing math in the console:
 12 / 7  
 ```
 
-However, we want more than a fancy calculator right? You were promised so much more! Things become very interesting when you can **assign values to objects**. To create an object, we need to give it a name, then the assignment operator `<-`, then the value we want to give it: 
+However, we want more than a fancy calculator right? You were promised so much more! Things become very interesting when you can **assign values to objects**. To create an object, we need to give it a name, then the assignment operator `<-`, then the value we want to give it:
 
 ```
 weight_kg <- 55
