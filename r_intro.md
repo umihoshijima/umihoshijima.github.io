@@ -12,7 +12,7 @@ feature_image: "/assets/img/ice_fish.jpg"
 ### uhoshiji@ucsc.edu  
 ### [http://umi.science](htp://umi.science)  
 
-http://umi.science/r_intro_201907/
+
 
 > This workshop assumes no prior programming knowledge.
 
@@ -25,11 +25,11 @@ In the next few hours we will be covering the first steps to scientific programm
 Our schedule will look something like this:
 
 * [Intro to R Part 1](http://umi.science/r_intro_201907_pt1/):
-* *Coffee / Snack Break*
+* *Break*
 * [Intro to R Part 2](http://umi.science/r_intro_201907_pt2/):
 
 ### Future Resources:
 
-* Content from this was adapted from various carpentries workshops, all of which I am certified to instruct:   [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop), [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/), and [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
+* Content from this was adapted from various carpentries workshops:   [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop), [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/), and [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
 
-*
+* 
