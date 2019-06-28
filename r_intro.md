@@ -5,13 +5,12 @@ feature_text: |
   # Quick start in R!
 permalink: /r_intro_201907/
 ---
+##
+## Umihiko (Umi) Hoshijima  
+### uhoshiji@ucsc.edu  
 
 
- Umihiko (Umi) Hoshijima  
- uhoshiji@ucsc.edu  
-
-
-
+Welcome to 
 
 > # Objectives:
 > * Learn why we are using R
