@@ -5,7 +5,7 @@ feature_text: |
   # Quick start in R!
 permalink: /r_intro_201907/
 ---
-##
+##   
 ## Umihiko (Umi) Hoshijima  
 ### uhoshiji@ucsc.edu  
 ### [http://umi.science](https://seltmann.github.io/2018-04-05-ucsb/)  
