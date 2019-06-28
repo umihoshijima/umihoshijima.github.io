@@ -4,9 +4,11 @@ title:
 feature_text: |
   # Quick start in R!
 permalink: /r_intro_201907/
+feature_image: "/assets/img/ice_fish.jpg"
+
 ---
 
-     
+
 ## Umihiko (Umi) Hoshijima  
 ### uhoshiji@ucsc.edu  
 ### [http://umi.science](https://seltmann.github.io/2018-04-05-ucsb/)  
