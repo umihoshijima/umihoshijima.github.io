@@ -8,13 +8,14 @@ feature_image: "/assets/img/ice_fish.jpg"
 
 ---
 
+Welcome to the REU - R Workshop!
+
 
 ## Umihiko (Umi) Hoshijima  
 ### uhoshiji@ucsc.edu  
 ### [http://umi.science](https://seltmann.github.io/2018-04-05-ucsb/)  
 
 
-#### Welcome to the REU - R Workshop!
 
 > This workshop assumes no prior programming knowledge.
 
