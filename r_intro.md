@@ -7,15 +7,12 @@ permalink: /r_intro_201907/
 feature_image: "/assets/img/ice_fish.jpg"
 
 ---
-
-Welcome to the REU - R Workshop!
-
-
+</br>
 ## Umihiko (Umi) Hoshijima  
 ### uhoshiji@ucsc.edu  
-### [http://umi.science](https://seltmann.github.io/2018-04-05-ucsb/)  
+### [http://umi.science](htp://umi.science)  
 
-
+http://umi.science/r_intro_201907/
 
 > This workshop assumes no prior programming knowledge.
 
