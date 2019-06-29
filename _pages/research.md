@@ -10,19 +10,28 @@ I explore the complex relationship between an organism and its environment throu
 * <a href="#alaska">Kelp Forest grazers in Southeast Alaska</a>
 * <a href="#purps">Purple Sea Urchins in Southern California</a>
 * <a href="#limacina">Juvenile pteropods in Antarctica</a>
+
 <br> <br>
-{% include figure.html image="/assets/img/sf_wrench.jpg" caption="Collecting pH sensors under ice in Antarctica" width="500" %}
+![ant diving](/assets/images/sf_wrench.jpg)
+*Collecting pH sensors under ice in Antarctica*
 <br> <br>
+
+
 
 
 <a id="alaska"></a>
 ### Kelp Forest grazers in Southeast Alaska
 
-{% include figure.html image="/assets/img/KK_LB_UH.jpg" caption="Fieldwork in Alaskan winter with Prof. Kristy Kroeker and grad student Lauren Bell." width="800" %}
+![my photo]({{ site.url }}/assets/images/KK_LB_UH.jpg)
+*Fieldwork in Alaskan winter with Prof. Kristy Kroeker and grad student Lauren Bell.*
+
+
 
 Subpolar regions experience huge seasonal changes in temperature and light availability. This seasonality, especially with regard to ocean acidification, is largely understudied and may play a critical role in the fate of these coastal subpolar ecosystems under global change.
 <br> <br>
-{% include figure.html image="/assets/img/sabrina_ab.jpg" caption="Undergraduate Sabrina Garcia" position="right" width="300"  %}
+![sabrina]({{ site.url }}/assets/images/sabrina_ab.jpg)
+*Undergraduate Sabrina Garcia*
+
 My postdoctoral work focuses on the interaction between marine grazers and the high seasonal fluctuation of pH and temperature in the kelp forests of Southeast Alaska. This work takes place at the northernmost extent of *Macrocystis pyrifera* kelp beds, and is thus it is fascinating to see familiar species existing as a foundation species in a completely different system.
 
 Most of my work here revolves around the seasonal energy demands of kelp forest grazers across a range of taxonomic and functional groups. We are interested in how pH and temperature interact to affect the energetic tradeoffs an organism enacts to cope with its environment. This is being investigated as a combination of field and laboratory experiments.
@@ -32,7 +41,9 @@ Check back more here for updates in the near future!
 <a id="purps"></a>
 ### Purple Sea Urchins in Southern California
 
-{% include figure.html image="/assets/img/cabezon_pipe.jpg" caption="Scientific collections in Santa Barbara, CA" width="500" %}
+
+![cabdive]({{ site.url }}/assets/images/cabezon_pipe.jpg)
+*Scientific collections in Santa Barbara, CA*
 
 In the California Current, the large-scale seasonal drivers of pH and temperature are relatively well-understood. Less poorly understood, however, is the spatiotemporally disparate local drivers – e.g. the ability of seasonally stratified water to create more intense low-pH/oxygen regimes in the nearshore, as well as the contributing effect of large-standing photosynthetic biomass (kelp, seagrass). I considered its potential to adapt stress-resistant populations, or conversely, the potential to create refugia to harbor vulnerable populations among the mosaic of pH and oxygen regimes throughout the coast.
 
