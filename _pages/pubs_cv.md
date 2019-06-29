@@ -8,7 +8,7 @@ header:
 
 
 
-* You can download my CV [here](http://{{site.url}}/assets/Umihiko_Hoshijima_cv.pdf). Below is a list of current publications with links (pdfs available upon request).
+* You can download my CV [here](https://{{site.url}}/assets/Umihiko_Hoshijima_cv.pdf). Below is a list of current publications with links (pdfs available upon request).
 * [ResearchGate](https://www.researchgate.net/profile/Umihiko_Hoshijima)
 * [Google Scholar](https://scholar.google.com/citations?user=OXKLC4YAAAAJ&hl=en)
 
