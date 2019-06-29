@@ -2,7 +2,6 @@
 title: "Timezones in R with Lubridate"
 date: 2019-03-18 12:00:00 -0700
 
-excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
