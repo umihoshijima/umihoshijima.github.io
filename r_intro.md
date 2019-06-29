@@ -7,10 +7,10 @@ permalink: /r_intro_201907/
 feature_image: "/assets/img/ice_fish.jpg"
 
 ---
-</br>
-## Umihiko (Umi) Hoshijima  
-### uhoshiji@ucsc.edu  
-### [http://umi.science](htp://umi.science)  
+<br>
+### Umihiko (Umi) Hoshijima  
+#### uhoshiji@ucsc.edu  
+###3 [http://umi.science](htp://umi.science)  
 
 
 
@@ -32,4 +32,4 @@ Our schedule will look something like this:
 
 * Content from this was adapted from various carpentries workshops:   [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop), [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/), and [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
 
-* 
+*
