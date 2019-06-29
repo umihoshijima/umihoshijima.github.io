@@ -20,7 +20,7 @@ I explore the complex relationship between an organism and its environment throu
 
 
 <a id="alaska"></a>
-### Kelp Forest grazers in Southeast Alaska
+## Kelp Forest grazers in Southeast Alaska
 
 ![my photo]({{ site.url }}/assets/images/KK_LB_UH.jpg)
 *Fieldwork in Alaskan winter with Prof. Kristy Kroeker and grad student Lauren Bell.*
@@ -39,7 +39,7 @@ Most of my work here revolves around the seasonal energy demands of kelp forest 
 Check back more here for updates in the near future!
 
 <a id="purps"></a>
-### Purple Sea Urchins in Southern California
+## Purple Sea Urchins in Southern California
 
 
 ![cabdive]({{ site.url }}/assets/images/cabezon_pipe.jpg)
@@ -58,7 +58,7 @@ Published work:
 
 
 <a id="limacina"></a>
-### Juvenile pteropods in Antarctica
+## Juvenile pteropods in Antarctica
 <br> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lB-tbmWnoQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br> <br>
