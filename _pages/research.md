@@ -12,7 +12,7 @@ I explore the complex relationship between an organism and its environment throu
 * <a href="#limacina">Juvenile pteropods in Antarctica</a>
 
 <br> <br>
-![ant diving](/assets/images/sf_wrench.jpg)
+![ant diving]({{ site.url }}/assets/images/sf_wrench.jpg)
 *Collecting pH sensors under ice in Antarctica*
 <br> <br>
 
