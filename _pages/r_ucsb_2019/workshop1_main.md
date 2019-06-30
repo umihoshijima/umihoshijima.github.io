@@ -30,3 +30,5 @@ In the next few hours we will be covering the first steps to scientific programm
 ## Future Resources:
 
 * Content from this was adapted from various carpentries workshops:   [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop), [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/), and [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
+
+* If Part 2 is inspiring, you should check out a lesson put together by UCSB grad students An Bui and Sam Csik! [Link here](https://github.com/samanthacsik/Intro-to-the-Tidyverse). They go far more in-depth into a lot of elements of the Tidyverse.
