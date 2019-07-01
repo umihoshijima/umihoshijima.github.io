@@ -8,7 +8,7 @@ header:
 
 [Back to main workshop page]({{ site.url }}/r_ucsb_2019/)
 
-> # Objectives:
+# Objectives:
 > * Learn why we are using R
 > * Become familiar with the R environment
 > * Learn how to do math and assign values to variables/objects
@@ -17,6 +17,8 @@ header:
 > * Exploring a data frame
 > * Explore plotting the data
 > * Pointing you towards future resources
+
+We will be using a dataset of mammals later in this lesson. Please download it using this link:*[Download link]({{ site.url }}/assets/mammals.csv)*
 
 # Why R?
 
@@ -47,13 +49,13 @@ However, we want more than a fancy calculator right? You were promised so much m
 weight_kg <- 55
 ```
 
-We have now put the value of `55` "into" `weight_kg`.
+We have now assigned the value of `55` to the variable `weight_kg`
 
 ```
 weight_kg
 ```
 
-Object names can't start with a number (e.g. `2ndTreatment` is no good but `treatment_2` works). In general you don't want to give something a name that's already taken. If we make another thing called `weight_kg`, we will "overwrite" the first one:
+Object names can't start with a number (e.g. `2ndTreatment` is no good but `treatment_2` works). In general you don't want to give something a name that's already taken. If we make another thing called `weight_kg`, we will "overwrite" the first one with no warning:
 
 ```
 weight_kg <- 60
@@ -77,22 +79,28 @@ weight_kg <- 57.5
 2.2 * weight_kg
 ```
 
-let's save the result of this calculation to a new variable, ``weight_lb`:
+let's save the result of this calculation to a new variable, `weight_lb`:
 
 ```
 weight_lb <- 2.2 * weight_kg
 weight_lb
 # change weight_kg:
 weight_kg <- 100
+```
+```
 # what is the result here?
-weight_kg
+weight_lb
+```
+```
 # what about now?
 weight_kg <- weight_kg / 2
+weight_lb
+weight_kg
 ```
 
 ## Using comments to inform the script
 
-In the above examples, I am using a pound sign / hashtag to "comment" the script. This lets me write regular english throughout my code in order to understand it better. this will be super helpful going ahead in the future!
+In the above examples, I am using a pound sign / hashtag to "comment" the script. This lets me write regular English throughout my code in order to understand it better. this will be super helpful going ahead in the future!
 
 Sometimes, I even start a script by writing in what I want to do in a few comments. Then I fill in the space between the comments with the code.
 
@@ -106,7 +114,7 @@ Functions can be anything! functions allow us to plot, calculate, transform, and
 
 ```
 # square root of the weight from above
-b <- sqrt(weight_kg)
+b <- sqrt(weight_lb)
 b
 ```
 
@@ -114,6 +122,24 @@ or rounding a number:
 
 ```
 round(3.14159)
+```
+
+To round the square root of the weight in pounds, we can do it in two steps:
+
+```
+sqrt_weight_lb = sqrt(weight_lb)
+round(sqrt_weight_lb)
+```
+
+... or we can skip the middle step and put a function inside of the other:
+
+```
+round(sqrt(weight_lb))
+```
+
+Many functions have more than one input. Usually the first one is required, then the following ones modify the way the function... functions.
+
+```
 # Let's see if round has any more tricks:
 ?round
 round(3.14159, digits = 2)
@@ -131,8 +157,8 @@ animal <- "sea urchin"
 A "list" of things is called a vector in R. We make lists using the command `c()`:
 
 ```
-weight_g <- c(10, 30, 40, 15)
-weight_g
+animals <- c('cat', 'dog', 'mouse', 'rabbit'))
+animals
 # this tells us the "class":
 class(weight_g)
 ```
@@ -149,6 +175,28 @@ weight_g[c(1,1,1,1,1,2)]
 ```
 
 ## Logical Indexing
+
+What if we want to grab the smallest numbers out of one of these vectors?
+```
+weights <- c(1,10,300, 40)
+# Grab weights only if weights are less than 30
+weights[weights<30]
+```
+
+| Symbol | Meaning                  |
+|--------|--------------------------|
+| <      | Less than                |
+| <=     | Less than or equal to    |
+| >      | Greater than             |
+| >=     | Greater than or equal to |
+| ==     | equal to                 |
+| !=     | Not equal to             |
+
+Let's play with these a bit!
+
+* Get the numbers not equal to 40.
+* Get the numbers greater than or equal to 10
+
 
 ## Importing Data
 
@@ -209,10 +257,55 @@ Now let's import the data! To do that we use another function called `read.csv`.
 read.csv('mammals.csv')
 ```
 
-*Note: You could've put in the whole name of the file from the start ('Desktop/workshop/mammals.csv'). So `read.csv` can understand that as well! *
-
-Whoops, just like in the beginnign when we asked R `4+2`, the "output" of `read.csv` isn't assigned to a variable name. we can do that here:
+Whoops, just like in the beginning when we asked R `4+2`, the "output" of `read.csv` isn't assigned to a variable name. we can do that here:
 
 ```
 mammals = read.csv('mammals.csv')
+```
+
+*Note: You could've put in the whole name of the file from the start ('Desktop/workshop/mammals.csv'). So `read.csv` can understand that as well!*
+
+
+Now typing "mammals" should show the whole spreadsheet:
+
+```
+mammals
+```
+
+You can click on the name "mammals" on the sidebar for a excel-style look at the data. But we can also do it straight from the R "command line":
+
+```
+mammals
+# show the first 5 lines:
+head(mammals)
+# show the last 5 lines:
+tail(mammals)
+# use summary to get a lot of information:
+summary(mammals)
+```
+
+You can use indexing on a `dataframe` by telling the rows and columns you are interested in.
+
+```
+# First row, first column
+mammals[1,1]
+# First row, complete
+mammals[1,]
+# First column
+mammals[,1]
+```
+
+...but we can also get columns by name using `$`
+
+```
+mammals$order
+```
+
+Let's make a new column called `chunkiness`, which is its weight  divided by its length:
+
+```
+# Does a column already exist?
+mammals$chunkiness
+mammals$chunkines =
+    mammals$adult_body_mass_g / mammals$adult_head_body_len_mm
 ```
