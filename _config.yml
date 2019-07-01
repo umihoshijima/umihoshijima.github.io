@@ -122,3 +122,9 @@ tag_archive:
 
 atom_feed:
    path: "http://feeds.feedburner.com/umi_hoshijima"
+
+## Google Analytics:
+analytics:
+  provider: "google"
+  google:
+    tracking_id: UA-76455894-1
