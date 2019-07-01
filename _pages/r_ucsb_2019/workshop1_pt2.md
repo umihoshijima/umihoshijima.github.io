@@ -53,7 +53,7 @@ Let's install and load our `ggplot2` package.  We'll also be using some dplyr he
 install.packages("ggplot2")
 install.packages("dplyr")
 library(ggplot2)
-library(dplyr) 
+library(dplyr)
 ~~~
 {: .r}
 
@@ -78,7 +78,7 @@ Here are the codes to make plots of body size vs. litter size:
 plot(adult_head_body_len_mm ~ adult_body_mass_g, data=mammals)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/first_plot.jpg.jpeg)
+![plot]({{ site.url }}/assets/r_workshop_2019/first_plot.jpg.jpeg)
 
 
 OR
@@ -90,7 +90,7 @@ ggplot(data=mammals, aes(x=adult_body_mass_g, y=adult_head_body_len_mm)) + geom_
 ~~~
 {: .r}
 
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/first_plot_ggplot.jpg.jpeg)
+![plot]({{ site.url }}/assets/r_workshop_2019/first_plot_ggplot.jpg.jpeg)
 
 Although the plots look similar, we can see differences in the basic structure of the code, and some of the default formatting.  The first is obvious, in which `plot(y~x)` means _"plot y with respect to x"_, which is fairly standard in many functions in R (e.g. statistics).  That second line of code probably looks a little like gobbledygook.  But it won't help you get gold out of Gringott's until you understand all its parts.
 
@@ -215,7 +215,7 @@ ggplot(data=mammals, aes(x=adult_body_mass_g, y=adult_head_body_len_mm))+
          geom_point()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/first_plot_ggplot.jpg.jpeg)
+![plot]({{ site.url }}/assets/r_workshop_2019/first_plot_ggplot.jpg.jpeg)
 
 
 To make this code formatted neatly, with `geom_point` on the second line, simply press enter after the `+` sign. Rstudio will automatically tab into the second line. (Hint: to correctly tab any line automatically, put your cursor on the code line and type `cmd + i` (mac) or `ctrl + i ` (windows)).
@@ -241,7 +241,7 @@ ggplot(data=mammals, aes(x=adult_body_mass_g, y=adult_head_body_len_mm))+
   geom_point(size=3)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_length_log_pt-sz.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_length_log_pt-sz.png)
 
 
 ...or __map__ some **useful** color onto our values. Mapping is based on your data values, usually of a yet-unplotted variable that also describes each point or observation.  In this case, taxonomic Order is a property that describes each individual mammal in our dataset, so we can map the Order on to each data point to differentiate them:
@@ -251,7 +251,7 @@ ggplot(data=mammals, aes(x=adult_body_mass_g, y=adult_head_body_len_mm))+
   geom_point(size=3, aes(color=order))
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_len_order-color.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_len_order-color.png)
 
 Thats a lot of orders to look at, and its hard to tell who's who.  Note however, the __automatically generated legend__.  __Yew!__  That doesn't happen in `plot` very easily, but you get it automatically in when `ggplot` maps colors or shapes to categorical variables.
 
@@ -277,7 +277,7 @@ for (a in 1:length(orders)) {
 legend(120000000,23000, legend = orders, col = colors, cex = 0.5, pch = 16, ncol = 2)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mammals_baseplot_order.jpeg)
+![plot]({{ site.url }}/assets/r_workshop_2019/mammals_baseplot_order.jpeg)
 
 ...ew.
 
@@ -365,7 +365,7 @@ We're first going to make a simple plot before making it fancy:
 ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g))+geom_boxplot()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_habitat_boxplot.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_habitat_boxplot.png)
 
 
 This looks good, but clearly there are a few large numbers making this hard to visualize. Let's fix this by "log-transforming" the y axis:
@@ -377,7 +377,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g))+geom_boxplot()+
   scale_y_log10()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_habitat_bxplt_log.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_habitat_bxplt_log.png)
 
 This looks good, but is a bit bland. We can change the colors of these box plots by which habitat they are from:
 ~~~
@@ -386,7 +386,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   scale_y_log10()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_habitat-color_bxplt_log.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_habitat-color_bxplt_log.png)
 
 
 These default colors are good for order, but are a bit unintuitive for marine vs. terrestrial. Let's use blue for marine, and green for terrestrial. You can set colors in R using a variety of methods, including hex codes and `rgb()`. You can also choose from some premade ones, and all of these can be found on [this color cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf).
@@ -397,7 +397,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   scale_fill_manual(values = c("dodgerblue", "forestgreen"))
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_habitat-custcolor_bxplt_log.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_habitat-custcolor_bxplt_log.png)
 
 Now just some last tidy-up for good practice:
 ~~~
@@ -421,7 +421,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
 
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_by_habitat-custcolor_bxplt_log.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_by_habitat-custcolor_bxplt_log.png)
 
 Great!
 
@@ -436,7 +436,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   geom_point()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/wrong_mass_habitat_box_pt.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/wrong_mass_habitat_box_pt.png)
 
 
 Wait! They are all on top of each other! Let's fix that by using geom_jitter(), which as the name implies jitters the points.
@@ -449,7 +449,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   geom_jitter()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/wrong_mass_habitat_box_jitt.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/wrong_mass_habitat_box_jitt.png)
 
 
 AHHHH!!! So many points ontop of the terrestrial boxplot! Let's change the transparency of the points again using the argument "alpha"- and this allows us to see where points overlap.
@@ -462,7 +462,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   geom_jitter(alpha = 0.1)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/wrong_mass_habitat_box_jitt.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/wrong_mass_habitat_box_jitt.png)
 
 
 One last neat thing you can do is add the orders as different colors to this boxplot as well.
@@ -474,7 +474,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   geom_jitter(aes(x = habitat, y = adult_body_mass_g, col = order), alpha = 0.2)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_habitat_box_transjitt.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_habitat_box_transjitt.png)
 
 This is a lot to take in, but you get the general idea. Note that the order that you puts these geoms does matter. We have the points above the boxplot because we have geom_jitter after geom_boxplot. switching the two puts the boxplot above the points.
 
@@ -486,7 +486,7 @@ ggplot(data = mammals, aes(x = habitat, y = adult_body_mass_g, fill = habitat))+
   geom_jitter(aes(x = habitat, y = adult_body_mass_g, col = order), alpha = 0.2) + geom_boxplot()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_habitat_bx_jitt_fin.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_habitat_bx_jitt_fin.png)
 
 
 # back to dplyr: grouping
@@ -522,7 +522,7 @@ mammals_summarize = summarize(mammals_group_order, mean_mass = mean(adult_body_m
 ggplot(mammals_summarize, aes(x = mean_mass, y = mean_len))+geom_point()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_len_groued-order_scatter.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_len_groued-order_scatter.png)
 
 This is great! seems like this could save a TON of time for us. However, it is strange that we need to make this `mammals_group_order` as a stepping stone. We're really using it as an intermediate to get from group_by to summarize.
 
@@ -562,7 +562,7 @@ mammals %>%
 
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_len_groued-order_scatter.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_len_groued-order_scatter.png)
 
 > **Challenge:**  Use pipes to redo the first challenge that you did here. Reminder it's to make a scatterplot of weight vs. litter size, but only with Rodentia and Cetecea orders. color by order. Oh, and log-transform both axes while you're at it!
 
@@ -582,9 +582,9 @@ We can use dplyr to observe our varibales in various groups. It turns out you ca
   scale_x_log10()+ scale_y_log10() + facet_grid(habitat~.)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_len_hab_grid_1.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_len_hab_grid_1.png)
 
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/mass_len_hab_grid_2.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/mass_len_hab_grid_2.png)
 
 
 Wow, that was easy! Remember that in this case, it's rows vs columns. So whatever comes before the tilde is rows, whatever comes after the tilde is columns. if you don't want to facet in either direction, put a period there.
@@ -596,7 +596,7 @@ We can also do something silly, like plot it differently for each order. But it 
   scale_x_log10()+ scale_y_log10() + facet_wrap(~order)
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/facet-order_grid.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/facet-order_grid.png)
 
 # Final section: making ggplot pretty
 
@@ -612,9 +612,9 @@ Suppose we aren't too jazzed on the grey backgrounds and default look. ggplot ma
   theme_minimal()
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/habitat_scatter_theme_bw.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/habitat_scatter_theme_bw.png)
 
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/habitat_scatter_theme_minimal.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/habitat_scatter_theme_minimal.png)
 
 
 There are quite a few defaults, which you can find listed and exampled [here](http://ggplot2.tidyverse.org/reference/ggtheme.html). However, you may want to start with one of these and then tweak things individually: like text size, font, background colors individually... the list goes on an on! Here is a [list](http://ggplot2.tidyverse.org/reference/theme.html) of all the things you can tweak. For example,
@@ -637,7 +637,7 @@ ggplot(mammals, aes(x = adult_head_body_len_mm, y = adult_body_mass_g))+geom_poi
         panel.grid.minor = element_blank())
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/pretty_plot.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/pretty_plot.png)
 
 
 This is just one example of how you can tweak all of the various parameters of a theme. You can get really in the weeds with this, but often people will tweak one to their liking and apply it to all of their plots.
@@ -663,7 +663,7 @@ ggplot(mammals, aes(x = adult_head_body_len_mm, y = adult_body_mass_g))+geom_poi
   stat_smooth(method = "lm")
 ~~~
 {: .r}
-![plot](https://seltmann.github.io/2018-04-05-ucsb/fig/ggplot_figs/pretty_plot_fitline.png)
+![plot]({{ site.url }}/assets/r_workshop_2019/pretty_plot_fitline.png)
 
 
 Let's save the plot and learn to save it in different sizes. If you just put a file name in, it will save to the current directory (getwd() and setwd() to view and change). Othwerisse you can put a relative or absolute path in to change that.
