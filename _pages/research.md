@@ -1,15 +1,14 @@
 ---
 permalink: /research/
 title: "Research"
+toc: true
 ---
 
 
 I explore the complex relationship between an organism and its environment through ecophysiology and autonomous sensor deployments. I am currently scaling this work up to communities and ecosystems. Here is a brief synopses of some of my major projects to date:
 
 
-* <a href="#alaska">Kelp Forest grazers in Southeast Alaska</a>
-* <a href="#purps">Purple Sea Urchins in Southern California</a>
-* <a href="#limacina">Juvenile pteropods in Antarctica</a>
+
 
 <br> <br>
 ![ant diving]({{ site.url }}/assets/images/sf_wrench.jpg)
@@ -19,7 +18,6 @@ I explore the complex relationship between an organism and its environment throu
 
 
 
-<a id="alaska"></a>
 ## Kelp Forest grazers in Southeast Alaska
 
 ![my photo]({{ site.url }}/assets/images/KK_LB_UH.jpg)
@@ -38,7 +36,6 @@ Most of my work here revolves around the seasonal energy demands of kelp forest 
 
 Check back more here for updates in the near future!
 
-<a id="purps"></a>
 ## Purple Sea Urchins in Southern California
 
 
@@ -57,7 +54,6 @@ Published work:
 * Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. [Ecological Informatics](https://www.sciencedirect.com/science/article/pii/S1574954116301212).
 
 
-<a id="limacina"></a>
 ## Juvenile pteropods in Antarctica
 <br> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lB-tbmWnoQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
