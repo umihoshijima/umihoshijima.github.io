@@ -147,3 +147,72 @@ weight_g[2]
 weight_g[c(1,2)]
 weight_g[c(1,1,1,1,1,2)]
 ```
+
+## Logical Indexing
+
+## Importing Data
+
+Make a folder on your Desktop called "Workshop", then put this spreadsheet inside of it:
+
+*[Download link]({{ site.url }}/assets/mammals.csv)*
+
+This file is a `csv`, or "comma-separated value". It is the best way to import data into R. You can easily save your excel spreadsheets into a csv file ("save as" in excel), but you will have to save each "sheet" as a separate `csv`. There are ways to read excel `.xls` files directly into R, but we won't be covering that [link to that code here, though](https://readxl.tidyverse.org/)
+
+### Finding out where we are on the computer
+
+R will let you navigate through the computer. A new project will probably start you out in your "Documents" folder, or in your "Home" folder (where you Document folder is).
+
+```
+# Where are we?
+getwd()
+# What files are there?
+list.files()
+```
+
+### Moving around on the computer
+
+Let's move into the folder where our data is.
+
+
+If you start in your Home folder, you just need to go onto your desktop, then into your workshop folder, then get mammals.  
+
+```
+setwd('Desktop/workshop')
+getwd()
+```
+
+If you start in your documents folder, you need to go 1 folder "up", or go into the enclosing folder. That require a `..`:
+
+```
+setwd('../Desktop/workshop')
+getwd()
+
+# .. always gets you 1 folder "up":
+setwd('..')
+getwd()
+setwd('workshop')
+setwd('../workshop') # go out of workshop ,and right back in.
+```
+
+If you ever get "lost", you can always go back to your "starting point" with a tilde `~` (above the tab key).
+
+```
+setwd(`~`) # ET PHONE Home
+# If you don't know where you're starting, you'll ALWAYS get to the workshop folder this way:
+setwd('~/Desktop/workshop')
+```
+
+
+Now let's import the data! To do that we use another function called `read.csv`. `read.csv` takes a file name as an input, and returns the contents of that file.
+
+```
+read.csv('mammals.csv')
+```
+
+*Note: You could've put in the whole name of the file from the start ('Desktop/workshop/mammals.csv'). So `read.csv` can understand that as well! *
+
+Whoops, just like in the beginnign when we asked R `4+2`, the "output" of `read.csv` isn't assigned to a variable name. we can do that here:
+
+```
+mammals = read.csv('mammals.csv')
+```

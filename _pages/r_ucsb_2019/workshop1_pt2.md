@@ -15,7 +15,7 @@ header:
 
 
 
-*by Umi Hoshijima, Corinne Fuchs, and Geraziella DiRenzo, based on material by Naupaka Zimmerman, Andrew Tredennick, & Kartik Ram*
+*by Umi Hoshijima, based on material by Corinne Fuchs, and Geraziella DiRenzo, Naupaka Zimmerman, Andrew Tredennick, & Kartik Ram*
 
 
 Goals
@@ -53,7 +53,7 @@ Let's install and load our `ggplot2` package.  We'll also be using some dplyr he
 install.packages("ggplot2")
 install.packages("dplyr")
 library(ggplot2)
-library(dplyr)
+library(dplyr) 
 ~~~
 {: .r}
 
