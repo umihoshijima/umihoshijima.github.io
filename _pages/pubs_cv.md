@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Publications / CV"
 header:
   overlay_image: /assets/images/urchin_rock.jpg
-classes: wide
+
 toc: true
 ---
 
