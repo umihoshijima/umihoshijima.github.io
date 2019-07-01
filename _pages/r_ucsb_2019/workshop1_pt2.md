@@ -3,7 +3,7 @@ permalink: /r_ucsb_2019/pt2/
 title: "R Workshop - Part 2"
 header:
   overlay_image: /assets/images/ant_diving_green.jpg
-
+toc: true
 ---
 
 [Back to main workshop page]({{ site.url }}/r_ucsb_2019/)

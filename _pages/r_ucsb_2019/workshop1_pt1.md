@@ -3,7 +3,7 @@ permalink: /r_ucsb_2019/pt1/
 title: "R Workshop - Part 1"
 header:
   overlay_image: /assets/images/ant_diving_green.jpg
-
+toc: true
 ---
 
 [Back to main workshop page]({{ site.url }}/r_ucsb_2019/)
@@ -20,7 +20,7 @@ header:
 
 We will be using a dataset of mammals later in this lesson. Please download it using this link:*[Download link]({{ site.url }}/assets/mammals.csv)*
 
-# Why R?
+## Why R?
 
 
 >I already know how to use excel, and have done some statistics in other programs (e.g. JMP). Why do I need to learn ANOTHER thing?
@@ -319,4 +319,4 @@ plot(adult_head_body_len_mm ~ adult_body_mass_g, data=mammals)
 ```
 
 
-Great! That's probably a good stopping point - let's move on to [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/) after a short break. 
+Great! That's probably a good stopping point - let's move on to [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/) after a short break.

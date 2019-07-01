@@ -7,6 +7,7 @@ header:
 excerpt: >
     <b><i>Ecophysiology in an unpredictable world </i></b>  <br />
     Postdoctoral Researcher, UC Santa Cruz
+classes: wide
 ---
 
 ![my photo]({{ site.url }}/assets/images/headshot_small.jpeg)
