@@ -31,8 +31,12 @@ classes: wide
 * **Umihiko Hoshijima** and Gretchen E. Hofmann. Variability of seawater chemistry in a kelp forest environment is linked to *in situ* transgenerational effects in the purple sea urchin, *Strongylocentrotus purpuratus*. Frontiers in Marine Science doi: [10.3389/fmars.2019.00062](https://www.frontiersin.org/articles/10.3389/fmars.2019.00062/full)
 
 
-![Con One]({{ site.url }}/assets/images/con_one.jpg)
-*Fieldwork in Antarctica*
+
+<figure style="width: 580px" class="align-center">
+  <img src="{{ site.url }}/assets/images/con_one.jpg" alt="">
+  <figcaption>Fieldwork in Antarctica. </figcaption>
+</figure>
+
 
 
 <a id="2018"></a>
@@ -40,9 +44,11 @@ classes: wide
 <br>
 * Kevin M. Johnson, Juliet M. Wong, **Umihiko Hoshijima**, Cailan S. Sugano, and Gretchen E. Hofmann. Seasonal transcriptomes of the Antarctic pteropod, *Limacina helicina antarctica*. Marine Environmental Research. doi:[10.1016/j.marenvres.2018.10.006](https://www.sciencedirect.com/science/article/pii/S0141113618304331)
 
+<figure style="width: 580px" class="align-center">
+  <img src="{{ site.url }}/assets/images/heroshot.jpg" alt="">
+  <figcaption>Deploying pH sensors under sea ice in McMurdo Sound, Antarctica. </figcaption>
+</figure>
 
-![Hero Shot]({{ site.url }}/assets/images/heroshot.jpg)
-*Deploying pH sensors under sea ice in McMurdo Sound, Antarctica*
 
 
 <a id="2017"></a>
@@ -50,9 +56,11 @@ classes: wide
 <br>
 * **Umihiko Hoshijima**, Juliet M. Wong, and Gretchen E. Hofmann. Additive effects of pCO2 and temperature on respiration rates of the Antarctic pteropod *Limacina helicina antarctica*. Conservation physiology. doi:[10.1093/conphys/cox064](https://academic.oup.com/conphys/article/5/1/cox064/4670933)
 
+<figure style="width: 580px" class="align-center">
+  <img src="{{ site.url }}/assets/images/helping_code.jpg" alt="">
+  <figcaption>Running a scientific programming workshop at UC Santa Barbara </figcaption>
+</figure>
 
-![Hero Shot]({{ site.url }}/assets/images/helping_code.jpg)
-*Running a scientific programming workshop at UC Santa Barbara*
 
 
 <a id="2016"></a>
@@ -64,8 +72,11 @@ classes: wide
 <br> <br>
 * Emily B. Rivest,  Margaret O’Brien, Lydia Kapsenberg, Chris C. Gotschalk, Carol A. Blanchette, **Umihiko Hoshijima**, and Gretchen E. Hofmann. Beyond the Benchtop and the benthos: dataset managment planning and design for time series of ocean carbonate chemistry associated with Durafet(R)-based pH sensors. Ecological Informatics. doi:[10.1016/j.ecoinf.2016.08.005](https://www.sciencedirect.com/science/article/pii/S1574954116301212)
 
-![shannon point]({{ site.url }}/assets/images/shannonpoint.jpg)
-*Summer Research at Shannon Point Marine Center, Western Washington University in 2012*
+
+<figure style="width: 580px" class="align-center">
+  <img src="{{ site.url }}/assets/images/shannonpoint.jpg" alt="">
+  <figcaption>Summer Research at Shannon Point Marine Center, Western Washington University in 2012. </figcaption>
+</figure>
 
 
 <a id="prep_review"></a>
