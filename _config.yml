@@ -125,6 +125,6 @@ atom_feed:
 
 ## Google Analytics:
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: UA-76455894-1
