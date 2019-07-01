@@ -117,3 +117,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+## XML fEED:
+
+atom_feed:
+   path: "http://feeds.feedburner.com/umi_hoshijima"
