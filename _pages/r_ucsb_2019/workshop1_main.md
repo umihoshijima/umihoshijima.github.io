@@ -8,6 +8,7 @@ excerpt: >
     Postdoctoral Researcher, UC Santa Cruz<br>
     [uhoshiji@ucsc.edu](mailto:uhoshiji@ucsc.edu)<br>
     [http://umi.science](htp://umi.science)  
+classes: wide
 ---
 
 **This is still in flux**. Feel free to glance through the lessons, but they are bound to change before the workshop.
