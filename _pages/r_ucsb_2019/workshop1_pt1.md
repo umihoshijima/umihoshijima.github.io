@@ -309,3 +309,14 @@ mammals$chunkiness
 mammals$chunkines =
     mammals$adult_body_mass_g / mammals$adult_head_body_len_mm
 ```
+
+Now let's do some simple plots: Longer animals should weigh more, but let's give it a look-see.
+
+Easy quick plots in R are made using the `plot` function. You type the y variable, followed by a `~`, and then the x variable - then you tell it which data frame to pull those columns from. This is a little weird at first, but this is very normal for statistics!
+
+```
+plot(adult_head_body_len_mm ~ adult_body_mass_g, data=mammals)
+```
+
+
+Great! That's probably a good stopping point - let's move on to [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/) after a short break. 
