@@ -31,7 +31,7 @@ In the next few hours we will be covering the first steps to scientific programm
 | [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/) | plot data using ggplot, manipulate data using dplyr commands.                              |
 |                                                      |                                                                                            |
 
-
+**[Link to Etherpad](https://etherpad.net/p/KKOIltGIui)**
 
 
 ## Future Resources:
