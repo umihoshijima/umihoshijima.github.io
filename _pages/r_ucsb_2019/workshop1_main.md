@@ -7,7 +7,7 @@ excerpt: >
     Umihiko (Umi) Hoshijima <br>
     Postdoctoral Researcher, UC Santa Cruz<br>
     [uhoshiji@ucsc.edu](mailto:uhoshiji@ucsc.edu)<br>
-    [http://umi.science](htp://umi.science)  
+    [http://umi.science](http://umi.science)  
 classes: wide
 ---
 
