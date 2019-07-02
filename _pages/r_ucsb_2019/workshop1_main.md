@@ -11,7 +11,6 @@ excerpt: >
 classes: wide
 ---
 
-**This is still in flux**. Feel free to glance through the lessons, but they are bound to change before the workshop.
 
 ## Before we start:
 * Download R following this link: [Link to R website](http://cran.cnr.berkeley.edu/)
@@ -33,3 +32,9 @@ In the next few hours we will be covering the first steps to scientific programm
 * Content from this was adapted from various carpentries workshops:   [Data Carpentry Ecology Curriculum](https://datacarpentry.org/lessons/#ecology-workshop), [R for reproducible scientific analysis](http://swcarpentry.github.io/r-novice-gapminder/), and [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
 
 * If Part 2 is inspiring, you should check out a lesson put together by UCSB grad students An Bui and Sam Csik! [Link here](https://github.com/samanthacsik/Intro-to-the-Tidyverse). They go far more in-depth into a lot of elements of the Tidyverse.
+
+* A big resource is the free book [R for Data Science](https://r4ds.had.co.nz/). A bit chewy but good place to go.
+
+* R studio maintains some [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) which are super nice.
+
+* R Studio also maintains a forum for questions! [R studio community](https://community.rstudio.com/). 

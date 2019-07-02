@@ -61,10 +61,9 @@ Then, import the `mammals` dataset. This is a subset of a *["species-level datab
 
 ~~~
 #loading mammals dataset for ggplot exercise:
-setwd("~/Dropbox/SoftwareCarpenty18/")
-mammals <- read.csv("data/mammals.csv", head=T)
-# OR:
-mammals <- read.csv(file.choose()) # to bring up a file dialog
+setwd("~/Desktop/workshop/data")
+mammals <- read.csv("mammals.csv", head=T)
+
 ~~~
 {: .r}
 
@@ -92,7 +91,7 @@ ggplot(data=mammals, aes(x=adult_body_mass_g, y=adult_head_body_len_mm)) + geom_
 
 ![plot]({{ site.url }}/assets/r_workshop_2019/first_plot_ggplot.jpg.jpeg)
 
-Although the plots look similar, we can see differences in the basic structure of the code, and some of the default formatting.  The first is obvious, in which `plot(y~x)` means _"plot y with respect to x"_, which is fairly standard in many functions in R (e.g. statistics).  That second line of code probably looks a little like gobbledygook.  But it won't help you get gold out of Gringott's until you understand all its parts.
+Although the plots look similar, we can see differences in the basic structure of the code, and some of the default formatting.  The first is obvious, in which `plot(y~x)` means _"plot y with respect to x"_, which is fairly standard in many functions in R (e.g. statistics).  That second line of code probably looks a little like gibberish.  But it won't help you get gold out of Gringott's until you understand all its parts.
 
 So why do we need another plotting method, to make the same plot?
 -----------
@@ -174,7 +173,7 @@ myplot<-ggplot(data=mammals... )
 ***
 
 ### `aes`
-For **aes**thetics.
+For **aes** thetics.
 
 How your data are to be visually represented.  `aes()` is an argument within `ggplot` that takes its own arguments, `aes(x=, y=)`.  These are your independent (x) variable and your dependent (y) variable.  `ggplot2` nerds call this *mapping*.  As I understand it, they mean that you are *mapping* data points by the data values, in a 'landscape' of a coordinate system based on your data. Mapping will be important later, when we add meaningful colors and symbols to differentiate things like mice and whales, based on a variable that corresponds to one of our mapped data points.
 

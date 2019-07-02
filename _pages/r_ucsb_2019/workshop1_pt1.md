@@ -32,7 +32,13 @@ This same idea applies to data analysis!  In a perfect world, I want to see your
 
 If you do all of this data formatting, calculation, plotting, and stats in a `programming language`, it is automatically keeping a track of everything you are doing. Every line of code is a "step" between your raw data and your result!
 
-More and more journals nowadays expect that your programming code and your raw data are made available online. This means that even Scientific programming isn't just for quantitative biologists anymore! Power to the people!
+More and more journals nowadays expect that your programming code and your raw data are made available online. This means that even Scientific programming isn't just for quantitative biologists anymore! Go us!
+
+## Familiarizing yourself with R Studio
+
+R studio adds extra usability to R by showing you what's going on in one handy window. 4 panes show you your script (the text document), the R console (the R code running), the environment (what R sees), and the files/output (what goes in/out). we will be using this throughout the lesson.
+
+> Tip: To run code from your script. highlight and hit control-enter (command-enter on mac). Or, to run a whole line, put your cursor on the line and hit that key combo.
 
 ## Starting with variables
 
@@ -55,7 +61,9 @@ We have now assigned the value of `55` to the variable `weight_kg`
 weight_kg
 ```
 
-Object names can't start with a number (e.g. `2ndTreatment` is no good but `treatment_2` works). In general you don't want to give something a name that's already taken. If we make another thing called `weight_kg`, we will "overwrite" the first one with no warning:
+> Object names can't start with a number (e.g. `2ndTreatment` is no good but `treatment_2` works). Name your variables the "shortest thing that makes sense" since you'll be typing it over and over again!
+
+In general you don't want to give something a name that's already taken. If we make another thing called `weight_kg`, we will "overwrite" the first one with no warning:
 
 ```
 weight_kg <- 60
@@ -98,6 +106,8 @@ weight_lb
 weight_kg
 ```
 
+> To run a command you ran previously, hit "up" in the console.
+
 ## Using comments to inform the script
 
 In the above examples, I am using a pound sign / hashtag to "comment" the script. This lets me write regular English throughout my code in order to understand it better. this will be super helpful going ahead in the future!
@@ -110,7 +120,13 @@ You're likely going to very quickly want to do something a little more than addi
 
 ![Diagram of a function](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Function_machine2.svg/200px-Function_machine2.svg.png)
 
-Functions can be anything! functions allow us to plot, calculate, transform, and operate on data in any way. they can be as simple as taking the square root of a number:
+Functions can be anything! functions allow us to plot, calculate, transform, and operate on data in any way. they can be as simple as rounding a number.
+
+```
+round(3.14159)
+```
+
+or getting the square root:
 
 ```
 # square root of the weight from above
@@ -118,11 +134,7 @@ b <- sqrt(weight_lb)
 b
 ```
 
-or rounding a number:
 
-```
-round(3.14159)
-```
 
 To round the square root of the weight in pounds, we can do it in two steps:
 
@@ -142,7 +154,7 @@ Many functions have more than one input. Usually the first one is required, then
 ```
 # Let's see if round has any more tricks:
 ?round
-round(3.14159, digits = 2)
+round(sqrt(weight_lb), digits = 2)
 ```
 
 ## Data types in R: vectors and data frames.
@@ -157,21 +169,24 @@ animal <- "sea urchin"
 A "list" of things is called a vector in R. We make lists using the command `c()`:
 
 ```
-animals <- c('cat', 'dog', 'mouse', 'rabbit'))
+animals <- c('Dogs', 'Sheep', 'Pigs')
 animals
 # this tells us the "class":
 class(weight_g)
+# Let's try with numbers:
+weights <- c(1,10,300, 40)
+
 ```
 
 We can pull out individual values from the vector using brackets:
 
 ```
 # extract first "element" of the vector:
-weight_g[1]
-weight_g[2]
+animals[1]
+animals[2]
 # we can also pull out multiple into a smaller
-weight_g[c(1,2)]
-weight_g[c(1,1,1,1,1,2)]
+animals[c(1,2)]
+animals[c(1,1,1,1,1,2)]
 ```
 
 ## Logical Indexing
@@ -180,7 +195,7 @@ What if we want to grab the smallest numbers out of one of these vectors?
 ```
 weights <- c(1,10,300, 40)
 # Grab weights only if weights are less than 30
-weights[weights<30]
+weights[weights<40]
 ```
 
 | Symbol | Meaning                  |
@@ -200,7 +215,7 @@ Let's play with these a bit!
 
 ## Importing Data
 
-Make a folder on your Desktop called "Workshop", then put this spreadsheet inside of it:
+Make a folder on your Desktop called "workshop", and a folder in that called 'data'. then put this spreadsheet inside of it:
 
 *[Download link]({{ site.url }}/assets/mammals.csv)*
 
@@ -225,21 +240,18 @@ Let's move into the folder where our data is.
 If you start in your Home folder, you just need to go onto your desktop, then into your workshop folder, then get mammals.  
 
 ```
-setwd('Desktop/workshop')
+setwd('Desktop/workshop/data')
 getwd()
 ```
 
 If you start in your documents folder, you need to go 1 folder "up", or go into the enclosing folder. That require a `..`:
 
 ```
-setwd('../Desktop/workshop')
-getwd()
-
 # .. always gets you 1 folder "up":
 setwd('..')
 getwd()
-setwd('workshop')
-setwd('../workshop') # go out of workshop ,and right back in.
+setwd('data')
+setwd('../data') # go out of workshop ,and right back in.
 ```
 
 If you ever get "lost", you can always go back to your "starting point" with a tilde `~` (above the tab key).
@@ -247,7 +259,7 @@ If you ever get "lost", you can always go back to your "starting point" with a t
 ```
 setwd(`~`) # ET PHONE Home
 # If you don't know where you're starting, you'll ALWAYS get to the workshop folder this way:
-setwd('~/Desktop/workshop')
+setwd('~/Desktop/workshop/data')
 ```
 
 
@@ -306,7 +318,7 @@ Let's make a new column called `chunkiness`, which is its weight  divided by its
 ```
 # Does a column already exist?
 mammals$chunkiness
-mammals$chunkines =
+mammals$chunkines <-
     mammals$adult_body_mass_g / mammals$adult_head_body_len_mm
 ```
 
