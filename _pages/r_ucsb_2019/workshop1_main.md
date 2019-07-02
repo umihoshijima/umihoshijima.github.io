@@ -23,9 +23,16 @@ classes: wide
 In the next few hours we will be covering the first steps to scientific programming from scratch.
 *This workshop assumes no prior programming knowledge.*
 
-* [Intro to R Part 1]({{ site.url }}/r_ucsb_2019/pt1/): Fundamentals of programming, using functions, data types, importing and manipulating data.
-* *Break*
-* [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/): Manipulate and plot data.
+
+| Rough Schedule:                                      |                                                                                            |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| [Intro to R Part 1]({{ site.url }}/r_ucsb_2019/pt1/) | Fundamentals of programming, using functions, data types, importing and manipulating data. |
+|                        *Break*                       |                                                                                            |
+| [Intro to R Part 2]({{ site.url }}/r_ucsb_2019/pt2/) | plot data using ggplot, manipulate data using dplyr commands.                              |
+|                                                      |                                                                                            |
+
+
+
 
 ## Future Resources:
 
@@ -37,4 +44,4 @@ In the next few hours we will be covering the first steps to scientific programm
 
 * R studio maintains some [cheatsheets](https://www.rstudio.com/resources/cheatsheets/) which are super nice.
 
-* R Studio also maintains a forum for questions! [R studio community](https://community.rstudio.com/). 
+* R Studio also maintains a forum for questions! [R studio community](https://community.rstudio.com/).
