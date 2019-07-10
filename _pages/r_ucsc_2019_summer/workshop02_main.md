@@ -11,6 +11,9 @@ excerpt: >
 classes: wide
 ---
 
+## [Etherpad Link](https://etherpad.net/p/d4ruwPaou5)   
+
+
 
 ## Before we start:
 * Download R following this link: [Link to R website](http://cran.cnr.berkeley.edu/)
