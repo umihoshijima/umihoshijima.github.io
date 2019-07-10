@@ -4,6 +4,8 @@ title: "R Workshop - Part 2"
 header:
   overlay_image: /assets/images/ant_diving_green.jpg
 toc: true
+toc_sticky: true
+
 ---
 
 [Back to main workshop page]({{ site.url }}/r_ucsb_2019/)
