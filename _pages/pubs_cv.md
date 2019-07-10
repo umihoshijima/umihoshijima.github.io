@@ -5,6 +5,7 @@ header:
   overlay_image: /assets/images/urchin_rock.jpg
 
 toc: true
+toc_sticky: true
 ---
 
 

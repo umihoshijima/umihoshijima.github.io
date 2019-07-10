@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /posts/
   - title: "Research"
     url: /research/
 #  - title: "Categories"
@@ -11,3 +9,7 @@ main:
 #    url: /tags/
   - title: "Publications/CV"
     url: /cv/
+  - title: "Programming Workshops"
+    url: /workshops/
+  - title: "Posts"
+    url: /posts/

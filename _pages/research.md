@@ -2,6 +2,8 @@
 permalink: /research/
 title: "Research"
 toc: true
+toc_sticky: true
+
 ---
 
 
