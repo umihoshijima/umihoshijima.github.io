@@ -4,12 +4,15 @@ title: "R Lessons - UCSC Summer 2019"
 header:
   overlay_image: /assets/images/ant_diving_green.jpg
 excerpt: >
-    Umihiko (Umi) Hoshijima <br>
-    Postdoctoral Researcher, UC Santa Cruz<br>
-    [uhoshiji@ucsc.edu](mailto:uhoshiji@ucsc.edu)<br>
-    [http://umi.science](htp://umi.science)  
+    Kelp Room (CBB Rm. 201)<br>
+    Thursdays, 11:00 - 13:00
+
 classes: wide
 ---
+
+
+
+
 
 ## [Etherpad Link](https://etherpad.net/p/d4ruwPaou5)   
 
