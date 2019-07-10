@@ -12,10 +12,6 @@ classes: wide
 
 ![my photo]({{ site.url }}/assets/images/headshot_small.jpeg)
 
-## Here is the [direct link]({{ site.url }}/r_ucsc_2019_summer/) to the R lessons for UCSC Summer 2019.
-## Here is the [direct link]({{ site.url }}/r_ucsb_2019/) to the R workshop at UCSB - July 2019.
-
-
 
 I am broadly interested in the extent to which organisms are adapted to their environment, and how that could confer resilience to global change. My work has generally focused in temperate reef systems, as well as polar environments.
 
