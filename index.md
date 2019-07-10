@@ -12,9 +12,8 @@ classes: wide
 
 ![my photo]({{ site.url }}/assets/images/headshot_small.jpeg)
 
-#### This is (perpetually?) under construction. Please be patient and feel free to contact me with any questions.
-
-# Here is the [direct link]({{ site.url }}/r_ucsb_2019/) to the R workshop at UCSB - July 2019.
+## Here is the [direct link]({{ site.url }}/r_ucsc_2019_summer/) to the R lessons for UCSC Summer 2019.
+## Here is the [direct link]({{ site.url }}/r_ucsb_2019/) to the R workshop at UCSB - July 2019.
 
 
 
