@@ -6,13 +6,12 @@ header:
 
 ---
 
-I am a certified instructor with [The Carpentries](https://carpentries.org/), and all of the workshops below are either sanctioned Carpentries workshops, or workshops using material from The Carpentries.
-
+I am a certified instructor with [The Carpentries](https://carpentries.org/), and all of the workshops below are either sanctioned Carpentries workshops, or workshops adapting their material ad lesson style.
 
 # 2019
 
-* [Intro to Programming with R ]({{ site.url }}/r_ucsc_2019_summer/) for Doris-Duke scholars program at UCSC.
-* [Intro to Programming with R]({{site.url}}/r_ucsb_2019/) for REU students at UCSB
+* [Intro to Programming with R ]({{ site.url }}/r_ucsc_2019_summer/) - weekly 2-hour sessions through the Summer. Originally organized for undergraduate researchers in the [Doris Duke Conservation Scholars Program](https://conservationscholars.ucsc.edu/), but open to everyone and well-attended by graduate students.
+* [Intro to Programming with R]({{site.url}}/r_ucsb_2019/) - a one-time, 3-hour crash course for undergraduate researchers taking part in the [Ocean Change REU Program at UC Santa Barbara.](https://oceanchangereuucsb.com/)
 
 
 # 2018
