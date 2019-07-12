@@ -33,8 +33,8 @@ Every week we will be covering the first steps to scientific programming from sc
 |  Rough Schedule:      |                                  |                                                                                            |
 |----|------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | **Week 1** (July 11, 2019)| [Getting started with R]({{ site.url }}/r_ucsc_2019_summer/pt1/) | Fundamentals of programming, using functions, data types, importing and manipulating data. |
-| **Week 2** (Tentative) |  Making choices using "if" statements. Quick intro to `git`.  |  |
-| **Week 3** (Tentative) |  Using loops to automate repetitive tasks  |  |
+| **Week 2** (July 18, 2019) |  [Make your own functions]({{site.url}}/r_ucsc_2019_summer/pt2). <br> Plotting with ggplot.    |  |
+| **Week 3** (Tentative) |  Using loops to automate repetitive tasks. Using dplyr to subset and summarize your data.   |  |
 
 
 
