@@ -193,7 +193,7 @@ So far, we have told ggplot where to look for data (`data`), and how to represen
 ***
 
 ### `geom`
-For **geom**etry.
+For **geom** etry.
 
 This is how we create the 'layer' we actually see as our figure.
 These are the geometric objects likes points, lines, polygons, etc. that are in the plot
